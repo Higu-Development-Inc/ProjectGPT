@@ -11,7 +11,7 @@ Welcome to ProjectGPT! This website serves as a showcase for ChatGPT, a powerful
 
 ## Usage
 
-Visit the website at [projectgpt.com](https://www.projectgpt.com) to explore the features and capabilities of ChatGPT.
+Visit the website at [projectgpt.com]([https://www.projectgpt.com](https://higu-development-inc.github.io/ProjectGPT/)) to explore the features and capabilities of ChatGPT.
 
 ## Contributing
 
